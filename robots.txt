@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cutimelapse.github.io/sitemap.xml
